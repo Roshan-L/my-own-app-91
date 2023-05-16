@@ -1,0 +1,20 @@
+ my own app -
+   1 - an app which teaches spoken english to ppl who fine it difficult to speak
+   2 - the app should teach pronounces 
+   3 - it should teach how to say a word without error
+   4 - it should teach how to form a sentence properly
+   5 - should start from basic words to tough words  
+
+ the app shud have 4 screens 
+   1)login
+   2)sign in
+   3)learn pronounciation
+   4)learn to form sentences
+   5)side navigator
+
+themes - 
+   1) blue and white
+   2) different fonts for different functions
+  
+
+
